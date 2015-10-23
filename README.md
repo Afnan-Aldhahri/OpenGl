@@ -18,13 +18,13 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
 
 
 
-1-[What is OpenGl ?](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/What%20is%20GO%20%3F%20.md)  
+1-[What is OpenGl ?]( )  
 
-2-[Evolution of the OpenGL ](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Who%20and%20When%3F.md)
+2-[Evolution of the OpenGL ]( )
 
-3-[Why OpenGl?](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Why%20GO.md) 
+3-[Why OpenGl?]( ) 
 
-4-[Installing OpenGl](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/InstallingGO.md) 
+4-[Installing OpenGl]( ) 
 
 5-Time for learning OpenGl
 
@@ -38,15 +38,15 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
 
 * OpenGl the Basics
 
-     * [Formatting , Comments](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Formatting%20and%20Comments%20.md)
+     * [Formatting , Comments]( )
          
 
-6- [Run your first program](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Run%20your%20first%20program.md)
+6- [Run your first program]( )
 
-7- [Testing](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Testing.md)
+7- [Testing]( )
 
-8- [How OpenGl related to our class : Software Engineering](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/How%20GO%20related%20to%20our%20class%20:%20Software%20Engineering.md)
+8- [How OpenGl related to our class : Software Engineering]( )
 
-9-[Conclusion](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Conclusion.md)
+9-[Conclusion]( )
 
-10-[References](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/bibliography.md)
+10-[References]( )
