@@ -8,7 +8,7 @@ After you finish reading this repository , you will know the main principles beh
 and most importantly , you will know how **OpenGL** helps software engineers with the task of building applications that use 3D graphics .
 
 
-[About this presentation](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/About%20this%20presentation.md) 
+[About this presentation](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/About%20this%20presentation.md) 
 
 
 -----------------------------------------------------------------------------------------------------
@@ -28,7 +28,7 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
 
 5-Time for learning OpenGl
 
- * [OpenGl frinds : GLU & GLUT] (https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Code%20Organization.md)
+ * OpenGl frinds : GLU & GLUT
  
      * OpenGL APIs
      
@@ -36,8 +36,8 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
      
      * GLUT: GL Utility Toolkit
 
-* [OpenGl the Basics](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Go%20the%20Basics.md) 
- 
+* OpenGl the Basics
+
      * [Formatting , Comments](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Formatting%20and%20Comments%20.md)
          
 
