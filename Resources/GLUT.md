@@ -8,17 +8,17 @@ As [opengl.org] (https://www.opengl.org) defined GLUT ,
 
 It implements a simple windowing application programming interface (API) for OpenGL.
 
-**GLUT** makes it considerably easier to learn about and explore OpenGL programming.
+GLUT makes it considerably easier to learn about and explore OpenGL programming.
 
-**GLUT** provides a portable API so you can write a single OpenGL program that works across all PC and workstation OS platforms.
+GLUT provides a portable API so you can write a single OpenGL program that works across all PC and workstation OS platforms.
 
-**GLUT** is designed for constructing small to medium sized OpenGL programs. 
+GLUT is designed for constructing small to medium sized OpenGL programs. 
 
 While GLUT is well-suited to learning OpenGL and developing simple OpenGL applications,
 
-**GLUT** is not a full-featured toolkit so large applications requiring sophisticated user interfaces are better off using native window system toolkits. 
+GLUT is not a full-featured toolkit so large applications requiring sophisticated user interfaces are better off using native window system toolkits. 
 
-**GLUT** is simple, easy, and small.
+GLUT is simple, easy, and small.
 
 The **GLUT library** has both C, C++ (same as C), FORTRAN, and Ada programming bindings.
 
