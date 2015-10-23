@@ -1,10 +1,11 @@
 # Installing OpenGl
 
-I summerize the installations steps from website , so if you need more details about how to install OpenGl take a look here .
+I summerize the installations steps from [www.prinmath.com](http://www.prinmath.com/csci5229/misc/install.html) , so if you need more details about how to install OpenGl take a look [here](http://www.prinmath.com/csci5229/misc/install.html) .
 
 You need to install an environment on your hardware where you can compile and run OpenGL programs.
 
 how to compile and link programs varies depends on which operatin system you use .
+
 
 **Linux**
 
