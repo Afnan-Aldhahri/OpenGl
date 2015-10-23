@@ -1,16 +1,18 @@
 
 # Why OpenGl?
 
-1-simple, easy 
+##1-simple, easy 
 
  If you know how to program at a reasonable level (ex you can work  with varibles,data structures,functions ..etc) ,
  
  then opengl is pretty simple.
 
 
-2- OpenGL is cross-platform :
 
-picture from http://blog.wolfire.com
+##2- OpenGL is cross-platform :
+
+[picture]!(https://cloud.githubusercontent.com/assets/14142983/10706775/54748e5a-79a7-11e5-94dd-a7e90be4ea8e.jpg "from http://blog.wolfire.com")
+  
 
 As *Mark Sinnathamby* said in his article about [cross platform games ](http://www.codeproject.com/Articles/358223/Cross-platform-game-design-and-development-using-O):"Why would anyone want to develop cross platform games, specifically using OpenGL? 
 
@@ -24,7 +26,7 @@ The games that are played on browsers and mobile devices are rapidly growing in 
 
 In addition to being platform-independent, OpenGL is also :
 
-3- language-independent 
+## 3- language-independent 
 
  you can write opengl programms in C,C++,java and more .
  
@@ -32,7 +34,7 @@ In addition to being platform-independent, OpenGL is also :
   
   the C bindings WGL, GLX and CGL; the C binding provided by iOS; and the Java and C bindings provided by Android.
   
-4- OpenGL is better for the future of games 
+##4- OpenGL is better for the future of games 
 
 
 
