@@ -9,6 +9,7 @@
 
 
 
+
 ### 2- OpenGL is cross-platform :
 
 ![picture](https://cloud.githubusercontent.com/assets/14142983/10706775/54748e5a-79a7-11e5-94dd-a7e90be4ea8e.jpg "from http://blog.wolfire.com")
@@ -26,6 +27,8 @@ The games that are played on browsers and mobile devices are rapidly growing in 
 
 In addition to being platform-independent, OpenGL is also :
 
+
+
 ### 3- language-independent 
 
  you can write opengl programms in C,C++,java and more .
@@ -34,7 +37,6 @@ In addition to being platform-independent, OpenGL is also :
   
   the C bindings WGL, GLX and CGL; the C binding provided by iOS; and the Java and C bindings provided by Android.
   
-##4- OpenGL is better for the future of games 
 
 
 
