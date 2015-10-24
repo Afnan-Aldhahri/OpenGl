@@ -42,4 +42,9 @@ We are looking for someone who has at least 5 years relevant industry experience
 - Optimize graphics for different platforms/devices
 
 
+Finally, lets see the **Average Software Engineer Opengl Salaries** 
 
+According to [www.simplyhired.com/salaries-k-software-engineer-opengl](http://www.simplyhired.com/salaries-k-software-engineer-opengl-jobs.html) 
+
+
+![](https://cloud.githubusercontent.com/assets/14142983/10712549/d09e949a-7a5a-11e5-8b9f-1c18eb338228.jpg)
