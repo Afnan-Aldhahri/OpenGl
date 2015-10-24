@@ -1,7 +1,7 @@
 
 ## OpenGL APIs
 
-![APIs](https://cloud.githubusercontent.com/assets/14142983/10707416/6fbf8342-79af-11e5-8a57-ab874bf654cd.png)
+![APIs](https://cloud.githubusercontent.com/assets/14142983/10707451/dc7dd646-79af-11e5-95c9-574ea0379db6.jpg "http://blog.db-in.com/")
 
 Related APIs :
 
