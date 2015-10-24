@@ -3,7 +3,7 @@
 
 If you are new to **OpenGl** , this presentation will give you an overview picture of **OpenGl** and how its related to software Engineering .
 
-After you finish reading this repository , you will know the main principles behind OpenGl and you will be able to write your first program and draw a simple scene in **OpenGl**  effictive GO code.
+After you finish reading this repository , you will know the main principles behind OpenGl and you will be able to write your first program and draw a simple scene in **OpenGl** .
 
 and most importantly , you will know how **OpenGL** helps software engineers with the task of building applications that use 3D graphics .
 
@@ -26,39 +26,37 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
 
 4-[Installing OpenGl](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Installing%20OpenGl.md) 
 
- :Time for learning OpenGl
-
-5- OpenGl frinds : GLU & GLUT
+Time for learning OpenGl :
  
-   * [OpenGL APIs](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/OpenGL%20APIs..md)
+5- [OpenGL APIs](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/OpenGL%20APIs..md)
      
+6- OpenGl friends : GLU & GLUT
+
    * [GLU: OpenGL Utility](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/GLU.md)
      
    * [GLUT: GL Utility Toolkit](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/GLUT.md)
 
-6- OpenGl the Basics
+7- OpenGl the Basics
 
-   * [The Main( ) ]( )
+   * [The Main( ) ](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Main.md)
      
-   * [Types of Objects ]( )
+   * [Types of Objects ](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Types%20of%20objects.md)
      
-   * [Color ]( )
+   * [Color ](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Color.md)
      
-   * [Transformations ]( )
+   * [Transformations ](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Transformation.md)
      
-   * [Text ]( )
+   * [Text ](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Text.md)
      
-   * [Drawing in 2D ]( )
+   * [Drawing in 2D ](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Drawing%20in%202D.MD)
 
      
-7-  OpenGl Advanced
+8-  OpenGl Advanced
 
-   * [Drawing in 3D ]( )
+   * [Drawing in 3D ](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Drawing%20in%203D..md)
      
-   * [Texture  ]( )
+   * [Texture  ](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Texture.md)
 
-8- [How OpenGl related to our class : Software Engineering]( )
-
-9-[Conclusion]( )
+9- [How OpenGl related to our class : Software Engineering](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/How%20OpenGl%20related%20to%20our%20class%20:%20Software%20Engineering.md)
 
 10-[References](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/References.md)
