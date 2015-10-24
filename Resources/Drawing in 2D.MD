@@ -38,9 +38,9 @@ Now , lets see how to draw a 2d scene by combining the objects that we have just
     }
 
 
-This was the display function, and as you can see ,the only thing new here is the house function.
+This was the display function, and as you can see ,the only thing new here is the **house function**.
 
-In house() function , we will draw a 2d house by using combination of Polygons.
+In house() function , we will draw a **2d house** by using combination of *Polygons*.
 
 static void house(double x,double y,double z,
                   double dx,double dy,double dz,
@@ -171,3 +171,5 @@ static void house(double x,double y,double z,
 **output**
 
 ![ ] (https://cloud.githubusercontent.com/assets/14142983/10709851/89fc3e6c-79fa-11e5-86f2-388c063aff80.jpg)
+
+[Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md)
