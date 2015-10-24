@@ -1,11 +1,14 @@
 
+
 ## Evolution of the OpenGL
 
-**OpenGL** was first created as an *open* and *reproducable alternative* to Iris GL which had been the proprietary graphics API on Silicon Graphics workstations.
+**OpenGL** was first created as an *open* and *reproducible alternative* to Iris GL .
 
-Although OpenGL was initially *similar* in some respects to IrisGL ,the lack of a formal specification and conformance tests made Iris GL unsuitable for broader adoption. 
+Iris GL had been the graphics owner API on Silicon Graphics workstations.
 
-**Mark Segal** and **Kurt Akeley** authored the OpenGL 1.0 specification which tried to formalize the definition of a useful graphics API and made cross platform non-SGI 3rd party implementation and support viable.
+At the beginning, OpenGL was  *similar*  to IrisGL some how. However, IrisGL has insufficient formal specification and conformance tests which make him inappropriate for broader adoption. 
+
+**Mark Segal** and **Kurt Akeley** authored the OpenGL 1.0 specification which tried to legitimize the definition of a good graphics API and made cross platform non-SGI 3rd party implementation and support viable.
 
 ## OpenGL Versions:
 
@@ -29,4 +32,7 @@ Although OpenGL was initially *similar* in some respects to IrisGL ,the lack of 
 
 4.1-4.5 Additional shaders
 
-for moe details about the differences between these versions , visit [www.opengl.org/History_of_OpenGL](https://www.opengl.org/wiki/History_of_OpenGL)
+for more details about the differences between these versions , visit [www.opengl.org/History_of_OpenGL](https://www.opengl.org/wiki/History_of_OpenGL)
+
+
+[Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md)
