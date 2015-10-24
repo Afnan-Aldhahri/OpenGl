@@ -92,7 +92,6 @@ The display function will stay the same ,but we will change the house() function
     glTranslated(1,0,0);
     
     glBegin(GL_QUADS);
-    glColor3f( 0.72 , 0.45 , 0.20 );
     glVertex3f( -0.8,  1,  1.01 );
     glVertex3f( -0.8,  1.5,  1.01 );
     glVertex3f(  -0.4,  1.5,  1.01 );
@@ -101,7 +100,6 @@ The display function will stay the same ,but we will change the house() function
     glEnd();
     
     glBegin(GL_LINES);
-    glColor3f( 0, 0, 0 );
     glVertex3f( -0.81,  1.01,  1.02 );
     glVertex3f( -0.81,  1.51,  1.02 );
     
@@ -176,3 +174,6 @@ The display function will stay the same ,but we will change the house() function
 **output**
 
 ![ ] (https://cloud.githubusercontent.com/assets/14142983/10709856/91f9ae7e-79fa-11e5-890f-a0b1682a966b.jpg)
+
+
+[Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md)
