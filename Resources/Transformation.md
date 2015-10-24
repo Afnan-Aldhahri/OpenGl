@@ -5,13 +5,14 @@
 
 * Call glLoadIdentity() in display()
 
-*Transformations are cumulative
+* Transformations are cumulative
 
 * Primitive operations :
-glLoadIdentity(); 
-glTranslate[fd](dx , dy , dz) 
-glScale[fd](Sx , Sy , Sz)
-glRotate[fd](angle , Ux , Uy , Uz)
+
+    glLoadIdentity(); 
+    glTranslatef(dx , dy , dz) 
+    glScalef(Sx , Sy , Sz)
+    glRotatef(angle , Ux , Uy , Uz)
 
 
 **glTranslate Example**
@@ -48,14 +49,14 @@ glRotate[fd](angle , Ux , Uy , Uz)
     
 **output:**
 
-![ ](https://cloud.githubusercontent.com/assets/14142983/10709210/fe15c9a4-79e0-11e5-9f2f-c4a59145b717.jpg)
+![ ](https://cloud.githubusercontent.com/assets/14142983/10709305/c01d1568-79e4-11e5-84aa-74f12fa51a02.jpg)
 
 
 **glScale & glRotatef Example**
 
     void display()
     {
-   //  Clear screen and Z-buffer
+    //  Clear screen and Z-buffer
     glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
     //  Reset transformations
     glLoadIdentity();
