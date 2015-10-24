@@ -38,19 +38,24 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
 
 6- OpenGl the Basics
 
-     * [The Main( ) ]( )
-     * [Types of Objects ]( )
-     * [Color ]( )
-     * [Transformations ]( )
-     * [Text ]( )
-     * [Drawing in 2D ]( )
+   * [The Main( ) ]( )
+     
+   * [Types of Objects ]( )
+     
+   * [Color ]( )
+     
+   * [Transformations ]( )
+     
+   * [Text ]( )
+     
+   * [Drawing in 2D ]( )
 
      
 7-  OpenGl Advanced
 
-     * [Drawing in 3D ]( )
+   * [Drawing in 3D ]( )
      
-     * [Texture  ]( )
+   * [Texture  ]( )
 
 8- [How OpenGl related to our class : Software Engineering]( )
 
