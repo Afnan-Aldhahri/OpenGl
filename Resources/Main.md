@@ -15,7 +15,7 @@
     return 0;
     }
 
-Lets explain each function in The main( ) :
+**Lets explain each function in The main( ) :**
 
     glutInit(&argc,argv); 
 will Initialize GLUT and process user parameters
