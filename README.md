@@ -30,11 +30,11 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
 
 5- OpenGl frinds : GLU & GLUT
  
-     * [OpenGL APIs](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/OpenGL%20APIs..md)
+   * [OpenGL APIs](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/OpenGL%20APIs..md)
      
-     * [GLU: OpenGL Utility](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/GLU.md)
+   * [GLU: OpenGL Utility](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/GLU.md)
      
-     * [GLUT: GL Utility Toolkit](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/GLUT.md)
+   * [GLUT: GL Utility Toolkit](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/GLUT.md)
 
 6- OpenGl the Basics
 
