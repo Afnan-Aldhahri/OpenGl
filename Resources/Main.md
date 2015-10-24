@@ -4,7 +4,7 @@
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
     glutInitWindowPosition(50, 50);
     glutInitWindowSize(900,600);
-    glutCreateWindow("HW2 : Afnan Aldhahri ");
+    glutCreateWindow("Hello from our first program ");
     glutDisplayFunc(display);
     glutReshapeFunc(reshape);
     glutSpecialFunc(special);
