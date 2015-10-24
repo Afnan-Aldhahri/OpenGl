@@ -3,9 +3,9 @@
 
 ### 1-simple, easy 
 
- If you know how to program at a reasonable level (ex you can work  with varibles,data structures,functions ..etc) ,
+ If you know how to program at a acceptable level in any programming language (ex you can work with varibles,data structures,functions ..etc) ,
  
- then opengl is pretty simple.
+then opengl will be pretty simple.
 
 
 
@@ -39,4 +39,4 @@ In addition to being platform-independent, OpenGL is also :
   
 
 
-
+[Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md)
