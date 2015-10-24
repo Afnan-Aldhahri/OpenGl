@@ -79,6 +79,8 @@ otherwise an error is generated.
     glutSwapBuffers();
     }
 
+**output:**
+
 ![](https://cloud.githubusercontent.com/assets/14142983/10709108/332b1f5c-79de-11e5-817f-16aaa6617e4f.jpg)
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -144,4 +146,7 @@ By default, both the front and back faces are drawn filled.
     glFlush();
     glutSwapBuffers();
     }
+    
+**output:**
 
+![ ](https://cloud.githubusercontent.com/assets/14142983/10709166/5a4fc6cc-79df-11e5-81ef-f58d366cd4dc.jpg)
