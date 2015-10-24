@@ -60,5 +60,5 @@ we will add a texture for the same 3d house that we draw before
 
 **output**
 
-![ ] (https://cloud.githubusercontent.com/assets/14142983/10709951/d6147a86-79fe-11e5-8e38-51acc4699ba1.jpg)
+![ ] (https://cloud.githubusercontent.com/assets/14142983/10709978/9ce11e8a-79ff-11e5-93d9-ee1dd1804d9d.jpg)
 
