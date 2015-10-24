@@ -4,31 +4,41 @@
 ![APIs](https://cloud.githubusercontent.com/assets/14142983/10707733/ef349f54-79b4-11e5-9fb5-8353b0813c4d.jpg
  "FROM: https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/OpenGL-MacProgGuide/opengl_pg_concepts/opengl_pg_concepts.html")
 
-**OpenGL APIs**
 
-*Languages*:
+##### Languages:
 C
+
 C++
+
 C# 
+
 FORTRAN 
+
 Java
+
 Perl
-Python Ada
-*Packages*:
+
+Python 
+
+Ada
+
+##### Packages:
+
 Qt 
+
 (QGLWidget)
+
 SDL
 
 #### Related APIs :
-
-#### AGL, GLX, WGL
+##### AGL, GLX, WGL
 glue between OpenGL and windowing systems
  
-#### GLU (OpenGL Utility Library)
+##### GLU (OpenGL Utility Library)
 part of OpenGL
 NURBS, tessellators, quadric shapes, etc.
  
-#### GLUT (OpenGL Utility Toolkit)
+##### GLUT (OpenGL Utility Toolkit)
 portable windowing API
 not officially part of OpenGL
 
