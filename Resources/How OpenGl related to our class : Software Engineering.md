@@ -11,4 +11,35 @@ of course there are many other application rather than Opengl that do the same j
 For more details ,check [why Opengl ?](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Why%20OpenGl%3F.md).
 
 
+but what if none of the software Engineers in the team know how to use Opengl ?
+
+Simply , they can create a spike .
+
+lets see some **example of a job oppertuonity** that target **software engineer whith expeirence with Opengl** :-
+
+**Software Engineer job description :**
+
+We are looking for an OpenGL expert to join our team in X company .
+
+You will work on our core products and some customer requirments .
+
+Our development platform is Linux and we use Git for revision control.
+
+**skills and experience**
+
+We are looking for someone who has at least 5 years relevant industry experience with Opengl :
+
+* OpenGL/ES 2.0 pipeline
+
+* OpenGL/ES 2.0 shader programming
+
+**What You Will Be Doing**
+
+- Develop cloud/mobile 3D software solutions
+
+- Adapt our existing applications to mobile/cloud
+
+- Optimize graphics for different platforms/devices
+
+
 
