@@ -60,6 +60,27 @@ Sets the fixed width of lines. The default value is 1.0. width is the new value 
 
 otherwise an error is generated.
 
+**Example**
+
+    void display()
+    {
+    //  Clear screen and Z-buffer
+    glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
+    //  Reset transformations
+    glLoadIdentity();
+    //  Red triangle
+    glBegin(GL_LINE_STRIP);
+    glColor3f(0.0,1.0,0.0); glVertex2f( 0.0, 0.5);
+    glColor3f(0.0,1.0,0.0); glVertex2f( 0.5,-0.5);
+    glColor3f(0.0,1.0,0.0); glVertex2f(-0.5,-0.5);
+    glEnd();
+    //  Flush and swap buffer
+    glFlush();
+    glutSwapBuffers();
+    }
+
+![](https://cloud.githubusercontent.com/assets/14142983/10709050/59808f62-79dd-11e5-95a2-cd1a52552cd2.jpg)
+-----------------------------------------------------------------------------------------------------------------------------
 
 #### Triangles, Strips, and Fans
 
@@ -104,3 +125,23 @@ Controls the drawing mode for a polygon’s front and back faces.
 The parameter face must be GL_FRONT_AND_BACK; while mode can be GL_POINT, GL_LINE, GL_FILL to indicate whether the polygon should be drawn as points, outlined, or filled. 
 
 By default, both the front and back faces are drawn filled.
+
+**Example**
+
+    void display()
+    {
+    //  Clear screen and Z-buffer
+    glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
+    //  Reset transformations
+    glLoadIdentity();
+    //  Red triangle
+    glBegin(GL_POLYGON);
+    glColor3f(1.0,0.0,0.0); glVertex2f( 0.0, 0.5);
+    glColor3f(1.0,0.0,0.0); glVertex2f( 0.5,-0.5);
+    glColor3f(1.0,0.0,0.0); glVertex2f(-0.5,-0.5);
+    glEnd();
+    //  Flush and swap buffer
+    glFlush();
+    glutSwapBuffers();
+    }
+
