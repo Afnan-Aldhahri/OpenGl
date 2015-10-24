@@ -60,7 +60,7 @@ Finally,lets see an example :
    we will add a texture for the same 3d house that we draw before 
 In display function( ) : 
 
- We have to add texture for the base of the house :
+ We have to add texture for the **base of the house **:
 
     //  Enable textures
     glEnable(GL_TEXTURE_2D);
@@ -120,7 +120,7 @@ In display function( ) :
     
     glDisable(GL_TEXTURE_2D);
  
- Now, we have to add different texture for the roof of the house :
+ Now, we have to add different texture for the **roof of the house **:
 
       
     // Now the roof
@@ -166,9 +166,9 @@ In display function( ) :
     //  Undo transformations
     glPopMatrix();
     
- and we will do the samething with the door , windows and the floor .
+ and we will do the samething with the** door , windows and the floor **.
  
- Finally ,We need to ubload these textures in the main function :
+ Finally ,We need to **upload these textures** in the main function :
  
     int main(int argc,char* argv[])
     {
@@ -184,6 +184,7 @@ In display function( ) :
     glutSpecialFunc(special);
     glutKeyboardFunc(key);
     glutIdleFunc(idle);
+    
     //  Load textures
     texture[0] = LoadTexBMP("c.bmp"); //house
     texture[1] = LoadTexBMP("r.bmp"); //roof
@@ -203,3 +204,5 @@ You can Find alot of different kind of textures online .
 
 ![ ] (https://cloud.githubusercontent.com/assets/14142983/10709978/9ce11e8a-79ff-11e5-93d9-ee1dd1804d9d.jpg)
 
+
+[Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md)
