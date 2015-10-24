@@ -63,9 +63,8 @@ otherwise an error is generated.
 
 #### Triangles, Strips, and Fans
 
-GL_TRIANGLES triangles between triples of points
-
-GL_TRIANGLE_STRIP series of triangles GL_TRIANGLE_FAN fan of triangles
+    GL_TRIANGLES triangles between triples of points
+    GL_TRIANGLE_STRIP series of triangles GL_TRIANGLE_FAN fan of triangles
 
 Triangles are made up of collections of three vertices. 
 
