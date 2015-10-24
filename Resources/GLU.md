@@ -1,11 +1,11 @@
 
 ##GLU: OpenGL Utility
 
-According to [opengl.org] (https://www.opengl.org) ,
+According to [opengl.org] (https://www.opengl.org) ,"
 
 If you think of OpenGL as a low-level 3D graphics library, think of GLU as adding some higher-level functionality not provided by OpenGL. 
 
-Some of GLU's features include:
+**Some of GLU's features include:**
 
 * Scaling of 2D images and creation of mipmap pyramids
 * Transformation of object coordinates into device coordinates and vice versa
@@ -21,4 +21,7 @@ The tessellation routines break these complex primitives up into (possibly group
 
 This is done by providing the data of the simpler primitives to your application from callback routines that your application must provide.
 
-Your app can then send the data to OpenGL using normal API calls.
+Your app can then send the data to OpenGL using normal API calls."
+
+
+[Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md)
