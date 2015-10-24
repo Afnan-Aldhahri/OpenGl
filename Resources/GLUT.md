@@ -2,7 +2,7 @@
 
 ##GLUT - The OpenGL Utility Toolkit
 
-As [opengl.org] (https://www.opengl.org) defined GLUT ,
+As [opengl.org] (https://www.opengl.org) defined GLUT ,"
 
 **GLUT** (pronounced like the glut in gluttony) is the OpenGL Utility Toolkit, a window system independent toolkit for writing OpenGL programs.
 
@@ -37,4 +37,7 @@ There are a number of newer and open source alternatives.
 * A simple, cascading pop-up menu facility
 * Utility routines to generate various solid and wire frame objects
 * Support for bitmap and stroke fonts
-* Miscellaneous window management functions
+* Miscellaneous window management functions "
+
+[Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md)
+
