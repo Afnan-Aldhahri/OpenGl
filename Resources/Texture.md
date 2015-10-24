@@ -6,6 +6,8 @@ Texture maps used to make surfaces appear more realistic.
 
 They are simple in concept, but hardware intensive.
 
+--------------------------------
+
 ####OpenGL Texture Types
 
 1D, 2D and 3D textures.
@@ -34,6 +36,7 @@ Sets texture coordinates for vertex
     
 Control application of textures
 
+--------------------------------
 
 
 #####Creating a Texture 
@@ -169,30 +172,31 @@ In display function( ) :
  
     int main(int argc,char* argv[])
     {
-   //  Initialize GLUT
-   glutInit(&argc,argv);
-   //  Request double buffered, true color window with Z buffering at 600x600
-   glutInitDisplayMode(GLUT_RGB | GLUT_DEPTH | GLUT_DOUBLE);
-   glutInitWindowSize(900,550);
-   glutCreateWindow("Afnan Aldhahri");
-   //  Set callbacks
-   glutDisplayFunc(display);
-   glutReshapeFunc(reshape);
-   glutSpecialFunc(special);
-   glutKeyboardFunc(key);
-   glutIdleFunc(idle);
-   //  Load textures
-   texture[0] = LoadTexBMP("c.bmp"); //house
-   texture[1] = LoadTexBMP("r.bmp"); //roof
-   texture[2] = LoadTexBMP("d.bmp"); //door
-   texture[3] = LoadTexBMP("w.bmp"); //window
-   texture[4] = LoadTexBMP("g.bmp"); //grass
-
-   //  Pass control to GLUT so it can interact with the user
-   ErrCheck("init");
-   glutMainLoop();
-   return 0;
-   }
+    //  Initialize GLUT
+    glutInit(&argc,argv);
+    //  Request double buffered, true color window with Z buffering at 600x600
+    glutInitDisplayMode(GLUT_RGB | GLUT_DEPTH | GLUT_DOUBLE);
+    glutInitWindowSize(900,550);
+    glutCreateWindow("Afnan Aldhahri");
+    //  Set callbacks
+    glutDisplayFunc(display);
+    glutReshapeFunc(reshape);
+    glutSpecialFunc(special);
+    glutKeyboardFunc(key);
+    glutIdleFunc(idle);
+    //  Load textures
+    texture[0] = LoadTexBMP("c.bmp"); //house
+    texture[1] = LoadTexBMP("r.bmp"); //roof
+    texture[2] = LoadTexBMP("d.bmp"); //door
+    texture[3] = LoadTexBMP("w.bmp"); //window
+    texture[4] = LoadTexBMP("g.bmp"); //grass
+ 
+    //  Pass control to GLUT so it can interact with the user
+    ErrCheck("init");
+    glutMainLoop();
+    return 0;
+    }
+    
 You can Find alot of different kind of textures online .
 
 **output**
