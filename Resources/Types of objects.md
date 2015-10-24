@@ -62,7 +62,7 @@ otherwise an error is generated.
     glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
     //  Reset transformations
     glLoadIdentity();
-    //  Red triangle
+    //  green lines
     glBegin(GL_LINE_STRIP);
     glColor3f(0.0,1.0,0.0); glVertex2f( 0.0, 0.5);
     glColor3f(0.0,1.0,0.0); glVertex2f( 0.5,-0.5);
@@ -125,12 +125,14 @@ Controls the drawing mode for a polygon’s front and back faces.
     glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
     //  Reset transformations
     glLoadIdentity();
+    
     //  Red triangle
     glBegin(GL_TRIANGLES);
     glColor3f(1.0,0.0,0.0); glVertex2f( 0.0, 0.5);
     glColor3f(1.0,0.0,0.0); glVertex2f( 0.5,-0.5);
     glColor3f(1.0,0.0,0.0); glVertex2f(-0.5,-0.5);
     glEnd();
+    
     //  Flush and swap buffer
     glFlush();
     glutSwapBuffers();
@@ -149,12 +151,14 @@ Controls the drawing mode for a polygon’s front and back faces.
     glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
     //  Reset transformations
     glLoadIdentity();
-    //  Red triangle
+    
+    //  blue squre
     glBegin(GL_TRIANGLES);
     glColor3f(1.0,0.0,0.0); glVertex2f( 0.0, 0.5);
     glColor3f(1.0,0.0,0.0); glVertex2f( 0.5,-0.5);
     glColor3f(1.0,0.0,0.0); glVertex2f(-0.5,-0.5);
     glEnd();
+    
     //  Flush and swap buffer
     glFlush();
     glutSwapBuffers();
