@@ -137,7 +137,7 @@ By default, both the front and back faces are drawn filled.
     //  Reset transformations
     glLoadIdentity();
     //  Red triangle
-    glBegin(GL_POLYGON);
+    glBegin(GL_TRIANGLES);
     glColor3f(1.0,0.0,0.0); glVertex2f( 0.0, 0.5);
     glColor3f(1.0,0.0,0.0); glVertex2f( 0.5,-0.5);
     glColor3f(1.0,0.0,0.0); glVertex2f(-0.5,-0.5);
@@ -150,3 +150,27 @@ By default, both the front and back faces are drawn filled.
 **output:**
 
 ![ ](https://cloud.githubusercontent.com/assets/14142983/10709166/5a4fc6cc-79df-11e5-81ef-f58d366cd4dc.jpg)
+
+
+**Example**
+
+    void display()
+    {
+    //  Clear screen and Z-buffer
+    glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
+    //  Reset transformations
+    glLoadIdentity();
+    //  Red triangle
+    glBegin(GL_TRIANGLES);
+    glColor3f(1.0,0.0,0.0); glVertex2f( 0.0, 0.5);
+    glColor3f(1.0,0.0,0.0); glVertex2f( 0.5,-0.5);
+    glColor3f(1.0,0.0,0.0); glVertex2f(-0.5,-0.5);
+    glEnd();
+    //  Flush and swap buffer
+    glFlush();
+    glutSwapBuffers();
+    }
+    
+**output:**
+
+![ ](https://cloud.githubusercontent.com/assets/14142983/10709210/fe15c9a4-79e0-11e5-9f2f-c4a59145b717.jpg)
