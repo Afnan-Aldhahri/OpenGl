@@ -8,8 +8,5 @@
 
 4-[www.prinmath.com](http://www.prinmath.com/csci5229/misc/install.html)
 
-5-[]()
+5-[OpenGL Programming Guide, Eighth Edition](http://www.ics.uci.edu/~gopi/CS211B/opengl_programming_guide_8th_edition.pdf)
 
-6-[]()
-
-7-[]()
