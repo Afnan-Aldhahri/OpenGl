@@ -13,7 +13,7 @@ Characters are raster images
 
 Orientation, size, etc. treated just like any other drawing elements
 
-#####Text using GLUT
+###Text using GLUT
 
     glutBitmapCharacter(GLUT_FONTTYPE,ch)
 
@@ -47,7 +47,7 @@ Sets position to write text in pixels coordinates
     //  Display text string
     while (*ch)
         glutBitmapCharacter(GLUT_BITMAP_HELVETICA_18,*ch++);
-   }
+    }
 
     
     void display()
