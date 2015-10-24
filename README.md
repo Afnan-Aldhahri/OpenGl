@@ -26,9 +26,9 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
 
 4-[Installing OpenGl](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/Installing%20OpenGl.md) 
 
-5-Time for learning OpenGl
+ :Time for learning OpenGl
 
- * OpenGl frinds : GLU & GLUT
+5- OpenGl frinds : GLU & GLUT
  
      * [OpenGL APIs](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/OpenGL%20APIs..md)
      
@@ -36,22 +36,21 @@ and most importantly , you will know how **OpenGL** helps software engineers wit
      
      * [GLUT: GL Utility Toolkit](https://github.com/Afnan-Aldhahri/OpenGl/blob/master/Resources/GLUT.md)
 
-* OpenGl the Basics
+6- OpenGl the Basics
 
      * [The Main( ) ]( )
      * [Types of Objects ]( )
      * [Color ]( )
      * [Transformations ]( )
-     * [Projections ]( )
      * [Text ]( )
-     * [Projections ]( )
-     * [Projections ]( )
-     * [Projections ]( )
-     
-     
-6- [Run your first program]( )
+     * [Drawing in 2D ]( )
 
-7- [Testing]( )
+     
+7-  OpenGl Advanced
+
+     * [Drawing in 3D ]( )
+     
+     * [Texture  ]( )
 
 8- [How OpenGl related to our class : Software Engineering]( )
 
