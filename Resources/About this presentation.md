@@ -4,4 +4,10 @@ This is my second presentation in CSCI 5828 — Fall 2015 (Foundations of Softwa
 
 My name is : Afnan Aldhahri
 
+Note :
+
+In Opengl basic & advanced sections ,I summerized the functions exlenation from [OpenGL Programming Guide, Eighth Edition](http://www.ics.uci.edu/~gopi/CS211B/opengl_programming_guide_8th_edition.pdf).
+
+However, all the example codes are written by me .
+
 [Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md) 
