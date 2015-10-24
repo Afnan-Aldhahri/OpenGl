@@ -9,9 +9,12 @@
 
 * Primitive operations :
 
-    glLoadIdentity(); 
+    glLoadIdentity();
+    
     glTranslatef(dx , dy , dz) 
+    
     glScalef(Sx , Sy , Sz)
+    
     glRotatef(angle , Ux , Uy , Uz)
 
 
