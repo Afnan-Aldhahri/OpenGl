@@ -79,7 +79,7 @@ otherwise an error is generated.
     glutSwapBuffers();
     }
 
-![](https://cloud.githubusercontent.com/assets/14142983/10709050/59808f62-79dd-11e5-95a2-cd1a52552cd2.jpg)
+![](https://cloud.githubusercontent.com/assets/14142983/10709059/922e8d5a-79dd-11e5-8aa5-fe9418e1c3d7.jpg)
 -----------------------------------------------------------------------------------------------------------------------------
 
 #### Triangles, Strips, and Fans
