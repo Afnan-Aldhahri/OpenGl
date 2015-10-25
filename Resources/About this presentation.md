@@ -6,7 +6,7 @@ My name is : Afnan Aldhahri
 
 Note :
 
-In Opengl basic & advanced sections ,I summerized the functions exlenation from [OpenGL Programming Guide, Eighth Edition](http://www.ics.uci.edu/~gopi/CS211B/opengl_programming_guide_8th_edition.pdf).
+In Opengl basic & advanced sections ,I summerized the functions explanation from [OpenGL Programming Guide, Eighth Edition](http://www.ics.uci.edu/~gopi/CS211B/opengl_programming_guide_8th_edition.pdf).
 
 However, all the example codes are written by me .
 
