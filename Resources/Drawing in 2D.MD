@@ -7,7 +7,7 @@ Now , lets see how to draw a 2d scene by combining the objects that we have just
     
     void display()
     {
-   //  Erase the window and the depth buffer
+    //  Erase the window and the depth buffer
     glClear(GL_COLOR_BUFFER_BIT|GL_DEPTH_BUFFER_BIT);
     //  Enable Z-buffering in OpenGL
     glEnable(GL_DEPTH_TEST);
