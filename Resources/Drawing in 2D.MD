@@ -42,7 +42,7 @@ This was the display function, and as you can see ,the only thing new here is th
 
 In house() function , we will draw a **2d house** by using combination of *Polygons*.
 
-static void house(double x,double y,double z,
+    static void house(double x,double y,double z,
                   double dx,double dy,double dz,
                   double th,int color)
     {
