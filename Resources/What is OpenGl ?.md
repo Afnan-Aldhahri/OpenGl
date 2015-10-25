@@ -28,8 +28,6 @@ The OpenGL Utility Library (GLU) provides many of the modeling characteristics, 
 
 GLU is a standard part of every OpenGL implementation.
 
-Also, there is a higher-level, object-oriented toolkit, Open Inventor, which is built atop OpenGL, and is available separately
-
-for many implementations of OpenGL.
+Also, there is a higher-level, object-oriented toolkit, Open Inventor, which is built atop OpenGL, and is available separately for many implementations of OpenGL.
 
 [Home] (https://github.com/Afnan-Aldhahri/OpenGl/blob/master/README.md) 
